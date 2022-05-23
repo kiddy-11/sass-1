@@ -1,0 +1,9 @@
+@mixin product {
+    .product_top_menu{
+        display: flex;
+        justify-content: space-between;
+    }
+    span{
+        color:$green_text;
+    }
+}

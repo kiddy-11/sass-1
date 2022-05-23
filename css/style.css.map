@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AAOA,AGNI,aHMS,CGNT,iBAAiB,CAAA;EACb,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;CACjC;;AHGL,AGFI,aHES,CGFT,IAAI,CAAA;EACA,KAAK,EEND,KAAK;CFOZ",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/_reset.scss",
+        "../sass/_variable.scss",
+        "../sass/_mixins.scss",
+        "../sass/_extendruls.scss",
+        "../sass/_color.scss",
+        "../sass/_about.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
